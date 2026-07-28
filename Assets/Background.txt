@@ -1,0 +1,2 @@
+Background
+Use the background images to build the background. It's 4k vertical.  Make sure we see the whole background. The background is split in 4 parts leaving an empty space in the middle. The token and menu buttons region should stay black.
